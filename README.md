@@ -109,6 +109,19 @@ Manually:
 Download the [latest release](https://github.com/hannibal002/SkyHanniDevelopment/releases/latest) and install it via
 <kbd>Settings</kbd> > <kbd>Plugins</kbd> > <kbd>⚙</kbd> > <kbd>Install plugin from disk...</kbd>
 
+
+## Reviews
+
+
+<details>
+<summary>via discord</summary>
+
+<img width="669" height="41" alt="image" src="https://github.com/user-attachments/assets/835eb8dc-8f06-4147-b9aa-b96a847a1353" />
+
+</details>
+
+
+
 ---
 
 Plugin based on the [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template).
